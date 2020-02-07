@@ -110,7 +110,7 @@ public class Country {
      * Setter for X attribute.
      * @param X X value
      */
-    public void setLongitude(double X) {
+    public void setCoordinateX(double X) {
         X = X;
     }
 
